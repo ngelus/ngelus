@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-![](https://visitor-badge.glitch.me/badge?page_id=ngelus)
+![Visitors Badge](https://visitor-badge.glitch.me/badge?page_id=ngelus)
+![Years Badge](https://badges.pufler.dev/years/ngelus)
+![Repos Badge](https://badges.pufler.dev/repos/ngelus)
+![Gists Badge](https://badges.pufler.dev/gists/ngelus)
+![Commits Badge](https://badges.pufler.dev/commits/monthly/ngelus)
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/ngelus27?style=social)
 
