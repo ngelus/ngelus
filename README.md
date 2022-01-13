@@ -7,6 +7,8 @@
 
 <p align="center"> <a href="https://twitter.com/ngelus27" target="blank"><img src="https://img.shields.io/twitter/follow/ngelus27?logo=twitter&style=for-the-badge" alt="ngelus27" /></a> </p>
 
+<p align="center"> <img src="https://github-readme-twitter.gazf.vercel.app/api?id=ngelus27" alt="Twitter feed" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/ngelus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ngelus" height="30" width="40" /></a>
