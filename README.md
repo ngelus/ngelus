@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ngelus)
-![Twitter Follow](https://img.shields.io/twitter/follow/ngelus27?color=%20%2300acee&label=Follow%20me%20on%20Twitter)
+
+![Twitter Follow](https://img.shields.io/twitter/follow/ngelus27?style=social)
+
+![GitHub followers](https://img.shields.io/github/followers/ngelus?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/ngelus?style=social)
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ngelus&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
